@@ -1,2 +1,2 @@
 # Chat-code-source
-A free code sourcemade with PHP.
+A free code source made with PHP.
